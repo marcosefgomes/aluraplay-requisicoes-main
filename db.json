@@ -64,18 +64,39 @@
       "id": 9
     },
     {
+<<<<<<< HEAD
       "titulo": "Logs no Android: boas práticas para otimização e aplicação | #AluraMais",
       "descricao": "2 mil visualizações",
       "url": "https://www.youtube.com/embed/viRW15_qUZw",
+=======
+      "titulo": "Educação coorporativa",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+>>>>>>> 933184ead9580b801f673081807bf43f252ca5ce
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 10
     },
     {
+<<<<<<< HEAD
       "titulo": "Conhecendo NestJS | #AluraMais",
       "descricao": "5 mil visualizações",
       "url": "https://www.youtube.com/embed/YHpG6t91oW8",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 11
+=======
+      "titulo": "Educação coorporativa",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+>>>>>>> 933184ead9580b801f673081807bf43f252ca5ce
     }
   ]
 }
